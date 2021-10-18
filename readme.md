@@ -1,3 +1,12 @@
+# Peter Maksymowsky
+
+Note: this repo is a clone of [https://github.com/nelaturuk/education_pathways](https://github.com/nelaturuk/education_pathways.)
+
+## Activity 1:
+
+Screenshot of repo in my github account:
+![Screenshot of repo in my github account](./activity_images/Activity_1.png)
+
 # CARTE Education Pathways
 
 ## Description
